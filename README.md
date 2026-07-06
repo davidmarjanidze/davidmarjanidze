@@ -1,7 +1,6 @@
-Software engineer.
+Software Engineer
 
-Interested in computer science, algorithms, data structures, web development and software design.
+Passionate about computer science, especially in web development, focused on building impactful web apps.
 <br>
 <br>
-[![Dato's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmarjanidze&show_icons=true&title_color=fff&icon_color=5be67af0&text_color=7f7f7f&bg_color=151414)](https://github.com/davidmarjanidze/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmarjanidze&show_icons=true&title_color=fff&icon_color=5be67af0&text_color=7f7f7f&bg_color=151414)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=davidmarjanidze)](https://github.com/stats-organization/github-stats-extended)
